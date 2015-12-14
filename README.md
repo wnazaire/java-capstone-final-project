@@ -1,4 +1,4 @@
-# java-capstone-final-project
+# Java Capstone Final Project
 Final Project for Java Capstone taken 2013-2014 at Suncoast High School
 This was a class assignment meant to demonstrate the extent of our Computer Science education at Suncoast High School.
 I created a program in Java that allows a user to create outfits, save them, and mark them as worn.
